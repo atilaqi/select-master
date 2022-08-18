@@ -1,6 +1,6 @@
 {
   "name": "rc-select-atilaqi",
-  "version": "14.1.9",
+  "version": "15.0.0",
   "description": "React Select",
   "engines": {
     "node": ">=8.x"
